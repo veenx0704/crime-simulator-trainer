@@ -1,6 +1,6 @@
 # Crime Simulator «Трейнер +54: нулевая жара, бесконечная выносливость, деньги, отмычки, машина ухода без топлива» [v1.0.0]
 
-Скачать: [https://moggydaytrainer.com/f/crime-simulator-trainer](https://moggydaytrainer.com/f/crime-simulator-trainer) · English: [Crime Simulator trainer +54: heat, stamina, cash, lockpicks, getaway car fuel [v1.0.0]](https://moggydaytrainer.com/en/f/crime-simulator-trainer)
+Скачать: [https://moggydaytrainer.com/ru/f/crime-simulator-trainer](https://moggydaytrainer.com/ru/f/crime-simulator-trainer) · English: [Crime Simulator trainer +54: heat, stamina, cash, lockpicks, getaway car fuel [v1.0.0]](https://moggydaytrainer.com/en/f/crime-simulator-trainer)
 
 ![Crime Simulator](https://moggydaytrainer.com/media/covers/crime-simulator-5ed0dc656d.jpg)
 
@@ -71,7 +71,7 @@
 
 ## Куда жать
 
-1. Открой [https://moggydaytrainer.com/f/crime-simulator-trainer](https://moggydaytrainer.com/f/crime-simulator-trainer)
+1. Открой [https://moggydaytrainer.com/ru/f/crime-simulator-trainer](https://moggydaytrainer.com/ru/f/crime-simulator-trainer)
 2. Проверь домен moggydaytrainer.com
 3. Жми основную кнопку скачивания
 4. После патча Crime Simulator обновляй ту же ссылку
