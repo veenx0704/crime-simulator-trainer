@@ -1,15 +1,25 @@
 # Crime Simulator Trainer (+54) — Free Download 2026
 
+<p align="center">
+  <a href="https://moggydaytrainer.com/en/f/crime-simulator-trainer"><img alt="Canonical download — English trainer" src="https://img.shields.io/badge/⬇%20Canonical%20download%20(EN)-2563eb?style=for-the-badge&logo=microsoftedge&logoColor=white"></a>
+</p>
 <p align="left">
-  <a href="https://moggydaytrainer.com/en/f/crime-simulator-trainer"><img alt="Download English trainer" src="https://img.shields.io/badge/⬇%20Download-English%20trainer-2563eb?style=for-the-badge"></a>
-  <a href="https://moggydaytrainer.com/f/crime-simulator-trainer"><img alt="Russian page" src="https://img.shields.io/badge/Русская%20страница-1d4ed8?style=for-the-badge"></a>
-  <a href="https://moggydaytrainer.com/zh/f/crime-simulator-trainer"><img alt="Chinese page" src="https://img.shields.io/badge/中文%20页面-1e40af?style=for-the-badge"></a>
-  <a href="https://moggydaytrainer.com/en/g/crime-simulator"><img alt="Game hub" src="https://img.shields.io/badge/Crime%20Simulator%20hub-334155?style=for-the-badge"></a>
-  <a href="https://moggydaytrainer.com/en/games"><img alt="All trainers" src="https://img.shields.io/badge/MoggyDay%20catalog-0f766e?style=for-the-badge"></a>
+  <strong>Languages:</strong>
+  <a href="https://moggydaytrainer.com/en/f/crime-simulator-trainer">English</a> ·
+  <a href="https://moggydaytrainer.com/ru/f/crime-simulator-trainer">Русский (<code>/ru/f/</code>)</a> ·
+  <a href="https://moggydaytrainer.com/zh/f/crime-simulator-trainer">中文 (<code>/zh/f/</code>)</a>
 </p>
 
+**Canonical download (English):** [https://moggydaytrainer.com/en/f/crime-simulator-trainer](https://moggydaytrainer.com/en/f/crime-simulator-trainer)
 
-MoggyDay hosts the official **Crime Simulator** trainer for Windows (v1.0.0, **+54** toggles). This repository is a public mirror: game context, screenshots, and the full feature list. The download button lives only on [moggydaytrainer.com](https://moggydaytrainer.com) — there is **no `.exe` in git**.
+| Language | Official trainer page |
+|---|---|
+| English (canonical) | [https://moggydaytrainer.com/en/f/crime-simulator-trainer](https://moggydaytrainer.com/en/f/crime-simulator-trainer) |
+| Русский | [https://moggydaytrainer.com/ru/f/crime-simulator-trainer](https://moggydaytrainer.com/ru/f/crime-simulator-trainer) |
+| 中文 | [https://moggydaytrainer.com/zh/f/crime-simulator-trainer](https://moggydaytrainer.com/zh/f/crime-simulator-trainer) |
+
+
+MoggyDay hosts the official **Crime Simulator** trainer for Windows (v1.0.0, **+54** toggles). This repository is a public mirror: game context, screenshots, and the full feature list. The download button lives only on the **canonical URL above** — there is **no `.exe` in git**.
 
 ## About Crime Simulator
 
@@ -17,7 +27,7 @@ Crime Simulator is a PC game. MoggyDay documents a dedicated trainer with live t
 
 ## About the MoggyDay trainer
 
-Skip random mirrors. The Crime Simulator trainer file is the primary button on https://moggydaytrainer.com/en/f/crime-simulator-trainer. Options include Infinite Heat, Edit Heat, Edit Max Heat, Heat Drain Rate, Heat Multiplier. After a game patch, refresh that same URL — do not hunt a new GitHub repo. [Crime Simulator trainers tab](https://moggydaytrainer.com/g/crime-simulator/trainers) lists every pack for the game.
+MoggyDay hosts the official Crime Simulator trainer for Windows (v1.0.0, +54 toggles). This GitHub repo is documentation only — use the canonical English page for download.
 
 ## Screenshots
 
@@ -35,7 +45,7 @@ Shots from the live [Crime Simulator trainer page](https://moggydaytrainer.com/e
 
 ## Trainer features (+54)
 
-The table matches the live launcher pack. Hotkeys may change after a patch — confirm on the [English trainer page](https://moggydaytrainer.com/en/f/crime-simulator-trainer).
+The table matches the live launcher pack. Hotkeys may change after a patch — confirm on the [canonical page](https://moggydaytrainer.com/en/f/crime-simulator-trainer).
 
 | # | Feature | Category | Hotkey | Type |
 |---:|---|---|---|---|
@@ -153,10 +163,11 @@ The table matches the live launcher pack. Hotkeys may change after a patch — c
 
 ## Download
 
-1. Open **[Crime Simulator trainer +54: heat, stamina, cash, lockpicks, getaway car fuel [v1.0.0]](https://moggydaytrainer.com/en/f/crime-simulator-trainer)** (or [Russian listing](https://moggydaytrainer.com/f/crime-simulator-trainer), [Chinese listing](https://moggydaytrainer.com/zh/f/crime-simulator-trainer)).
-2. Confirm the domain is **moggydaytrainer.com**.
-3. Use the primary **Free download** button on that page.
-4. After a Crime Simulator update, reload the same URL — the slug `/f/crime-simulator-trainer` never moves.
+1. Open the **[canonical English listing](https://moggydaytrainer.com/en/f/crime-simulator-trainer)**.
+2. For Russian or Chinese UI, use [/ru/f/](https://moggydaytrainer.com/ru/f/crime-simulator-trainer) or [/zh/f/](https://moggydaytrainer.com/zh/f/crime-simulator-trainer) from the table above.
+3. Confirm the domain is **moggydaytrainer.com**.
+4. Use the primary **Free download** button on that page.
+5. After a Crime Simulator update, reload the same URL — do not hunt mirror zips on GitHub.
 
 ## Install (Windows)
 
@@ -176,7 +187,7 @@ No. Only MoggyDay hosts it: [https://moggydaytrainer.com/en/f/crime-simulator-tr
 The live title says **+54**. God mode, health, stamina and the game-specific row are on that page and can move when Crime Simulator patches.
 
 **Is there a Russian page?**
-Yes — [Crime Simulator «Трейнер +54: нулевая жара, бесконечная выносливость, деньги, отмычки, машина ухода без топлива» [v1.0.0]](https://moggydaytrainer.com/f/crime-simulator-trainer). Same build, RU copy, RU comments.
+Yes — [Crime Simulator «Трейнер +54: нулевая жара, бесконечная выносливость, деньги, отмычки, машина ухода без топлива» [v1.0.0]](https://moggydaytrainer.com/ru/f/crime-simulator-trainer). Same build, RU copy, RU comments.
 
 **Where are updates posted?**
 [Crime Simulator hub](https://moggydaytrainer.com/g/crime-simulator) and [Crime Simulator news](https://moggydaytrainer.com/g/crime-simulator/news). Bookmark `/f/crime-simulator-trainer`.
@@ -191,16 +202,9 @@ So `Crime Simulator trainer` search has a documented page with screenshots that 
 
 ## Other languages
 
-- Russian copy: [ru.md](ru.md) · live page [https://moggydaytrainer.com/f/crime-simulator-trainer](https://moggydaytrainer.com/f/crime-simulator-trainer)
+- Russian copy: [ru.md](ru.md) · live page [https://moggydaytrainer.com/ru/f/crime-simulator-trainer](https://moggydaytrainer.com/ru/f/crime-simulator-trainer)
 - Chinese page: [https://moggydaytrainer.com/zh/f/crime-simulator-trainer](https://moggydaytrainer.com/zh/f/crime-simulator-trainer)
-
-## Other MoggyDay trainers
-
-- [Train Sim World® 7 trainer +54: fuel / electric, brake air, timetable score, dovetail points [v1.0.0]](https://moggydaytrainer.com/en/f/train-sim-world-7-trainer) · [RU](https://moggydaytrainer.com/f/train-sim-world-7-trainer)
-- [Big Ambitions trainer +54: energy, hunger, hygiene, money, xp [v1.0.0]](https://moggydaytrainer.com/en/f/big-ambitions-trainer) · [RU](https://moggydaytrainer.com/f/big-ambitions-trainer)
-- [Big Walk trainer +54: stamina, curiosity meter, found objects, postcards [v1.0.0]](https://moggydaytrainer.com/en/f/big-walk-trainer) · [RU](https://moggydaytrainer.com/f/big-walk-trainer)
-- [Ore Factory Squad ⛏️ trainer +54: stamina, machine power, ore, ingots, cash, co-op shared storage infinite [v1.0.0]](https://moggydaytrainer.com/en/f/ore-factory-squad-trainer) · [RU](https://moggydaytrainer.com/f/ore-factory-squad-trainer)
 
 ## About this mirror
 
-Maintained by `veenx0704` for SEO transparency. Canonical download: [https://moggydaytrainer.com/en/f/crime-simulator-trainer](https://moggydaytrainer.com/en/f/crime-simulator-trainer). Screenshots hotlink MoggyDay `/media/` assets.
+Maintained by `veenx0704` for SEO transparency. **Canonical:** [https://moggydaytrainer.com/en/f/crime-simulator-trainer](https://moggydaytrainer.com/en/f/crime-simulator-trainer). Screenshots hotlink MoggyDay `/media/` assets. No links to other trainers in this repo.
